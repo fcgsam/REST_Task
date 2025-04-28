@@ -23,12 +23,3 @@ urlpatterns = [
 ]
 
 
-# admin username: aavez
-# admin password: 12django90
-# admin email:aavez@gmail.com
-
-
-{
-  "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ1ODI0MTUyLCJpYXQiOjE3NDU4MjMyNTIsImp0aSI6IjQ1N2UxNTFkMWZiNTQyZDY4NjczNDI2NGRkMDk2N2E4IiwidXNlcl9pZCI6Mn0.JeH9V3cmVuczzG5BKMNTDanvfo74t6SkO-eOXbfUOFw",
-  "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0NTkwOTY1MiwiaWF0IjoxNzQ1ODIzMjUyLCJqdGkiOiJmMDljYTYyYmRhMDY0ODkzOWU5MWFmNDMyZjA3ZmQ2MiIsInVzZXJfaWQiOjJ9.jjGbbbwGUlgQuSYwhZDD41yeFXDXWi_heKM_Zdxg5VQ"
-}
